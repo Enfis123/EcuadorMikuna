@@ -33,3 +33,39 @@ C:\Users\kedos\source\repos\EcuadorMikuna\EcuadorMikuna.Server\obj\Debug\net8.0\
 C:\Users\kedos\source\repos\EcuadorMikuna\EcuadorMikuna.Server\obj\Debug\net8.0\EcuadorMikuna.Server.pdb
 C:\Users\kedos\source\repos\EcuadorMikuna\EcuadorMikuna.Server\obj\Debug\net8.0\EcuadorMikuna.Server.genruntimeconfig.cache
 C:\Users\kedos\source\repos\EcuadorMikuna\EcuadorMikuna.Server\obj\Debug\net8.0\ref\EcuadorMikuna.Server.dll
+C:\Users\TOSHIBA\source\repos\Nueva carpeta\EcuadorMikuna\EcuadorMikuna.Server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\TOSHIBA\source\repos\Nueva carpeta\EcuadorMikuna\EcuadorMikuna.Server\bin\Debug\net8.0\appsettings.json
+C:\Users\TOSHIBA\source\repos\Nueva carpeta\EcuadorMikuna\EcuadorMikuna.Server\bin\Debug\net8.0\spa.proxy.json
+C:\Users\TOSHIBA\source\repos\Nueva carpeta\EcuadorMikuna\EcuadorMikuna.Server\bin\Debug\net8.0\EcuadorMikuna.Server.exe
+C:\Users\TOSHIBA\source\repos\Nueva carpeta\EcuadorMikuna\EcuadorMikuna.Server\bin\Debug\net8.0\EcuadorMikuna.Server.deps.json
+C:\Users\TOSHIBA\source\repos\Nueva carpeta\EcuadorMikuna\EcuadorMikuna.Server\bin\Debug\net8.0\EcuadorMikuna.Server.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\Nueva carpeta\EcuadorMikuna\EcuadorMikuna.Server\bin\Debug\net8.0\EcuadorMikuna.Server.dll
+C:\Users\TOSHIBA\source\repos\Nueva carpeta\EcuadorMikuna\EcuadorMikuna.Server\bin\Debug\net8.0\EcuadorMikuna.Server.pdb
+C:\Users\TOSHIBA\source\repos\Nueva carpeta\EcuadorMikuna\EcuadorMikuna.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\TOSHIBA\source\repos\Nueva carpeta\EcuadorMikuna\EcuadorMikuna.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\TOSHIBA\source\repos\Nueva carpeta\EcuadorMikuna\EcuadorMikuna.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\TOSHIBA\source\repos\Nueva carpeta\EcuadorMikuna\EcuadorMikuna.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\TOSHIBA\source\repos\Nueva carpeta\EcuadorMikuna\EcuadorMikuna.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\TOSHIBA\source\repos\Nueva carpeta\EcuadorMikuna\EcuadorMikuna.Server\obj\Debug\net8.0\EcuadorMikuna.Server.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\Nueva carpeta\EcuadorMikuna\EcuadorMikuna.Server\obj\Debug\net8.0\spa.proxy.json
+C:\Users\TOSHIBA\source\repos\Nueva carpeta\EcuadorMikuna\EcuadorMikuna.Server\obj\Debug\net8.0\EcuadorMikuna.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\Nueva carpeta\EcuadorMikuna\EcuadorMikuna.Server\obj\Debug\net8.0\EcuadorMikuna.Server.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\Nueva carpeta\EcuadorMikuna\EcuadorMikuna.Server\obj\Debug\net8.0\EcuadorMikuna.Server.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\Nueva carpeta\EcuadorMikuna\EcuadorMikuna.Server\obj\Debug\net8.0\EcuadorMikuna.Server.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\Nueva carpeta\EcuadorMikuna\EcuadorMikuna.Server\obj\Debug\net8.0\EcuadorMikuna.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\Nueva carpeta\EcuadorMikuna\EcuadorMikuna.Server\obj\Debug\net8.0\EcuadorMikuna.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TOSHIBA\source\repos\Nueva carpeta\EcuadorMikuna\EcuadorMikuna.Server\obj\Debug\net8.0\EcuadorMikuna.Server.sourcelink.json
+C:\Users\TOSHIBA\source\repos\Nueva carpeta\EcuadorMikuna\EcuadorMikuna.Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\TOSHIBA\source\repos\Nueva carpeta\EcuadorMikuna\EcuadorMikuna.Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\TOSHIBA\source\repos\Nueva carpeta\EcuadorMikuna\EcuadorMikuna.Server\obj\Debug\net8.0\staticwebassets\msbuild.EcuadorMikuna.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\TOSHIBA\source\repos\Nueva carpeta\EcuadorMikuna\EcuadorMikuna.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.EcuadorMikuna.Server.props
+C:\Users\TOSHIBA\source\repos\Nueva carpeta\EcuadorMikuna\EcuadorMikuna.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EcuadorMikuna.Server.props
+C:\Users\TOSHIBA\source\repos\Nueva carpeta\EcuadorMikuna\EcuadorMikuna.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EcuadorMikuna.Server.props
+C:\Users\TOSHIBA\source\repos\Nueva carpeta\EcuadorMikuna\EcuadorMikuna.Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\TOSHIBA\source\repos\Nueva carpeta\EcuadorMikuna\EcuadorMikuna.Server\obj\Debug\net8.0\scopedcss\bundle\EcuadorMikuna.Server.styles.css
+C:\Users\TOSHIBA\source\repos\Nueva carpeta\EcuadorMikuna\EcuadorMikuna.Server\obj\Debug\net8.0\EcuadorM.AC224C72.Up2Date
+C:\Users\TOSHIBA\source\repos\Nueva carpeta\EcuadorMikuna\EcuadorMikuna.Server\obj\Debug\net8.0\EcuadorMikuna.Server.dll
+C:\Users\TOSHIBA\source\repos\Nueva carpeta\EcuadorMikuna\EcuadorMikuna.Server\obj\Debug\net8.0\refint\EcuadorMikuna.Server.dll
+C:\Users\TOSHIBA\source\repos\Nueva carpeta\EcuadorMikuna\EcuadorMikuna.Server\obj\Debug\net8.0\EcuadorMikuna.Server.pdb
+C:\Users\TOSHIBA\source\repos\Nueva carpeta\EcuadorMikuna\EcuadorMikuna.Server\obj\Debug\net8.0\EcuadorMikuna.Server.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\Nueva carpeta\EcuadorMikuna\EcuadorMikuna.Server\obj\Debug\net8.0\ref\EcuadorMikuna.Server.dll

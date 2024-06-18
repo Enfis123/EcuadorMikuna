@@ -1,0 +1,16 @@
+# Ignorar directorio .vs generado por Visual Studio
+.vs/
+
+# Ignorar archivos de configuración específicos de Visual Studio
+*.suo
+*.user
+*.sln.docstates
+
+# Ignorar archivos de caché, logs y archivos temporales generados
+*.log
+*.cache
+*.dat
+
+# Ignorar archivos de compilación
+*.dll
+*.exe

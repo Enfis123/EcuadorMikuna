@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:5173",
 "RedirectUrl": "",
 "LaunchCommand": "npm run dev",
-"WorkingDirectory": "C:\\Users\\kedos\\source\\repos\\EcuadorMikuna\\EcuadorMikuna.Server\\..\\ecuadormikuna.client",
+"WorkingDirectory": "C:\\Users\\TOSHIBA\\source\\repos\\Nueva carpeta\\EcuadorMikuna\\EcuadorMikuna.Server\\..\\ecuadormikuna.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }

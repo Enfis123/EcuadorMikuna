@@ -1,7 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kedos\\source\\repos\\EcuadorMikuna\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\TOSHIBA\\source\\repos\\Nueva carpeta\\EcuadorMikuna\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C72EA6-2C1F-4254-A1C1-4DF0D9AA15ED}|ecuadormikuna.client\\ecuadormikuna.client.esproj|c:\\users\\toshiba\\source\\repos\\nueva carpeta\\ecuadormikuna\\ecuadormikuna.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A8C72EA6-2C1F-4254-A1C1-4DF0D9AA15ED}|ecuadormikuna.client\\ecuadormikuna.client.esproj|solutionrelative:ecuadormikuna.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C72EA6-2C1F-4254-A1C1-4DF0D9AA15ED}|ecuadormikuna.client\\ecuadormikuna.client.esproj|c:\\users\\toshiba\\source\\repos\\nueva carpeta\\ecuadormikuna\\ecuadormikuna.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A8C72EA6-2C1F-4254-A1C1-4DF0D9AA15ED}|ecuadormikuna.client\\ecuadormikuna.client.esproj|solutionrelative:ecuadormikuna.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C72EA6-2C1F-4254-A1C1-4DF0D9AA15ED}|ecuadormikuna.client\\ecuadormikuna.client.esproj|c:\\users\\toshiba\\source\\repos\\nueva carpeta\\ecuadormikuna\\ecuadormikuna.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A8C72EA6-2C1F-4254-A1C1-4DF0D9AA15ED}|ecuadormikuna.client\\ecuadormikuna.client.esproj|solutionrelative:ecuadormikuna.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,15 +22,66 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\source\\repos\\Nueva carpeta\\EcuadorMikuna\\ecuadormikuna.client\\src\\index.css",
+              "RelativeDocumentMoniker": "ecuadormikuna.client\\src\\index.css",
+              "ToolTip": "C:\\Users\\TOSHIBA\\source\\repos\\Nueva carpeta\\EcuadorMikuna\\ecuadormikuna.client\\src\\index.css",
+              "RelativeToolTip": "ecuadormikuna.client\\src\\index.css",
+              "ViewState": "AQIAAMAAAAAAAAAAAAAUwNYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-18T02:55:52.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\source\\repos\\Nueva carpeta\\EcuadorMikuna\\ecuadormikuna.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "ecuadormikuna.client\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\TOSHIBA\\source\\repos\\Nueva carpeta\\EcuadorMikuna\\ecuadormikuna.client\\src\\main.jsx",
+              "RelativeToolTip": "ecuadormikuna.client\\src\\main.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-18T02:55:16.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\source\\repos\\Nueva carpeta\\EcuadorMikuna\\ecuadormikuna.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "ecuadormikuna.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\TOSHIBA\\source\\repos\\Nueva carpeta\\EcuadorMikuna\\ecuadormikuna.client\\src\\App.jsx",
+              "RelativeToolTip": "ecuadormikuna.client\\src\\App.jsx",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-18T02:54:28.582Z",
+              "EditorCaption": ""
             }
           ]
         }

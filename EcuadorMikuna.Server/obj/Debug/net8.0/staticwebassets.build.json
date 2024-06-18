@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "cKwXVQCE+vKzhY0FlMyjrRaCWOx2B4q5ap7EACkyyuE=",
+  "Hash": "7YfzZx+QiEOke7vwQEfz5DpwuyUmgs5qgU/DoNPqWwI=",
   "Source": "EcuadorMikuna.Server",
   "BasePath": "_content/EcuadorMikuna.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\kedos\\source\\repos\\EcuadorMikuna\\ecuadormikuna.client\\ecuadormikuna.client.esproj",
+      "Identity": "C:\\Users\\TOSHIBA\\source\\repos\\Nueva carpeta\\EcuadorMikuna\\ecuadormikuna.client\\ecuadormikuna.client.esproj",
       "Version": 2,
       "Source": "ecuadormikuna.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
