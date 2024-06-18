@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "cKwXVQCE+vKzhY0FlMyjrRaCWOx2B4q5ap7EACkyyuE=",
+  "Source": "EcuadorMikuna.Server",
+  "BasePath": "_content/EcuadorMikuna.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\kedos\\source\\repos\\EcuadorMikuna\\ecuadormikuna.client\\ecuadormikuna.client.esproj",
+      "Version": 2,
+      "Source": "ecuadormikuna.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
